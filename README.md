@@ -3,6 +3,7 @@
 angularJS + beego demo
 
 cd $GOPATH/src/todo
+
 bee run
 ```
 
